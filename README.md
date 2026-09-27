@@ -1,0 +1,6 @@
+- Escolha o modo. Se você é iniciante, comece pelo modo tutorial;
+- ⁠Ao iniciar, ligue a lanterna;
+- ⁠Verifique o mapa;
+- ⁠Inicie entrando pela porta branca que está atras de você;
+- ⁠Movimente o personagem pelo joystick (bolinha); 
+- ⁠Arrastando o dedo na tela fora do joystick mude a direção da tela;
